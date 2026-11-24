@@ -1,0 +1,31 @@
+{
+	"schemaVersion": 1,
+	"id": "yourmod",
+	"version": "${version}",
+	"name": "Your Mod Enchantments",
+	"description": "Six custom enchantments: sunlight/moonlight mending, stealer, thrust, diarrhea and explorer.",
+	"authors": [
+		"yzt"
+	],
+	"license": "MIT",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.yourmod.YourMod"
+		],
+		"client": [
+			"com.yourmod.client.YourModClient"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.16.14",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"contact": {
+		"homepage": "https://github.com/yzt-yhssyt/yourmod",
+		"sources": "https://github.com/yzt-yhssyt/yourmod",
+		"issues": "https://github.com/yzt-yhssyt/yourmod/issues"
+	}
+}

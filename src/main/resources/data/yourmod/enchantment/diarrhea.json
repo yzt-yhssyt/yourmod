@@ -1,0 +1,22 @@
+{
+  "anvil_cost": 4,
+  "description": {
+    "translate": "enchantment.yourmod.diarrhea"
+  },
+  "effects": {},
+  "max_cost": {
+    "base": 45,
+    "per_level_above_first": 20
+  },
+  "max_level": 2,
+  "min_cost": {
+    "base": 15,
+    "per_level_above_first": 10
+  },
+  "slots": [
+    "chest",
+    "legs"
+  ],
+  "supported_items": "#yourmod:enchantable/diarrhea_armor",
+  "weight": 2
+}

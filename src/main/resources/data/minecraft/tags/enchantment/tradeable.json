@@ -1,0 +1,15 @@
+{
+  "values": [
+    "#minecraft:non_treasure",
+    "minecraft:binding_curse",
+    "minecraft:vanishing_curse",
+    "minecraft:frost_walker",
+    "minecraft:mending",
+    "yourmod:sunlight_mending",
+    "yourmod:moonlight_mending",
+    "yourmod:stealer",
+    "yourmod:thrust",
+    "yourmod:diarrhea",
+    "yourmod:explorer"
+  ]
+}

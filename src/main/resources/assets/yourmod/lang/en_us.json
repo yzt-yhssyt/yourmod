@@ -1,0 +1,14 @@
+{
+  "enchantment.yourmod.sunlight_mending": "Sunlight Mending",
+  "enchantment.yourmod.moonlight_mending": "Moonlight Mending",
+  "enchantment.yourmod.stealer": "Stealer",
+  "enchantment.yourmod.thrust": "Thrust",
+  "enchantment.yourmod.diarrhea": "Diarrhea",
+  "enchantment.yourmod.explorer": "Explorer",
+  "effect.yourmod.diarrhea": "Diarrhea",
+  "effect.yourmod.explorer_marked_weak": "Explorer Marked",
+  "effect.yourmod.explorer_marked_strong": "Explorer Marked",
+  "key.yourmod.thrust": "Thrust",
+  "key.categories.yourmod": "Your Mod",
+  "itemGroup.yourmod.enchantments": "Enchanted Books"
+}

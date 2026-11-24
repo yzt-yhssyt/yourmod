@@ -1,0 +1,14 @@
+{
+  "enchantment.yourmod.sunlight_mending": "日光修复",
+  "enchantment.yourmod.moonlight_mending": "月光修复",
+  "enchantment.yourmod.stealer": "窃取者",
+  "enchantment.yourmod.thrust": "突刺",
+  "enchantment.yourmod.diarrhea": "腹泻",
+  "enchantment.yourmod.explorer": "探索者",
+  "effect.yourmod.diarrhea": "腹泻",
+  "effect.yourmod.explorer_marked_weak": "探索者标记",
+  "effect.yourmod.explorer_marked_strong": "探索者标记",
+  "key.yourmod.thrust": "突刺",
+  "key.categories.yourmod": "你的模组",
+  "itemGroup.yourmod.enchantments": "附魔书"
+}

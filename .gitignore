@@ -1,0 +1,26 @@
+# Gradle
+.gradle/
+build/
+out/
+!gradle/wrapper/gradle-wrapper.jar
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.settings/
+.classpath
+.project
+
+# Minecraft run directory, local test server and worlds
+run/
+test-server/
+saves/
+logs/
+*.log
+
+# OS
+Thumbs.db
+.DS_Store
